@@ -1,0 +1,24 @@
+{
+  "name": "nabeghe/wp-shortcodes",
+  "description": "A standalone version of WordPress shortcodes system for use outside WordPress.",
+  "type": "library",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nabeghe/wp-shortcodes",
+  "license": "GPL-2.0+",
+  "autoload": {
+    "psr-4": {
+      "Nabeghe\\WPShortcodes\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hadi Akbarzadeh",
+      "email": "hadicoder@gmail.com",
+      "homepage": "https://elatel.ir",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  }
+}
