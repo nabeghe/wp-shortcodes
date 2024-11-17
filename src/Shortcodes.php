@@ -57,7 +57,7 @@ class Shortcodes
      *                           itself (`$shortcode_tag`), in that order.
      * @throws ShortcodeException
      */
-    public function add(string $tag, callable $callback): void
+    public function add(string $tag, $callback): void
     {
         if ('' === trim($tag)) {
             throw new ShortcodeException('Invalid shortcode name: Empty name given.');

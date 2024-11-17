@@ -2,7 +2,7 @@
   "name": "nabeghe/wp-shortcodes",
   "description": "A standalone version of WordPress shortcodes system for use outside WordPress.",
   "type": "library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/nabeghe/wp-shortcodes",
   "license": "GPL-2.0+",
   "autoload": {
