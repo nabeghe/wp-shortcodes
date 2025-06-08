@@ -14,8 +14,6 @@ You can install the package via composer:
 composer require nabeghe/wp-shortcodes
 ```
 
-### 📁 Localization Directory
-
 ### Example
 
 ```php
